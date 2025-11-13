@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Page Title</title>
+
+</head>
+
+<body>
+
+<b>This is some text.</b>
+
+<i>This is some text.</i>
+
+<a href=”www.google.com”>This is some text.</a>
+
+</body>
+
+</html>
